@@ -1,0 +1,7 @@
+{
+  "name": "acf/util",
+  "description": "Utilities for ACF plugin for simple creation of custom fields",
+  "require": {
+    "php": ">=7.4"
+  }
+}
