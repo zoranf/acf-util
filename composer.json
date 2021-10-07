@@ -2,7 +2,6 @@
   "name": "acf/util",
   "description": "Utilities for ACF plugin for simple creation of custom fields",
   "license": "MIT",
-  "require": {
-    "php": ">=7.4"
-  }
+  "type": "acf-util",
+  "homepage": "https://github.com/zoranf/acf-util"
 }
