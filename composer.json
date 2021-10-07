@@ -1,6 +1,5 @@
 {
   "name": "acf/util",
-  "version": "1.0.0",
   "description": "Utilities for ACF plugin for simple creation of custom fields",
   "license": "MIT",
   "require": {
